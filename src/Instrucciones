@@ -1,0 +1,7 @@
+cd C:\Users\TEC\Documents\NetBeansProjects\R1\src
+javac *.java
+start rmiregistry
+java ServidorHola
+
+cd C:\Users\TEC\Documents\NetBeansProjects\R1\src
+java ClienteHola
